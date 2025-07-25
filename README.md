@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Deiner Lares
 
-🎓 Estudiante de **Análisis y Desarrollo de Software**  
+🎓 Tecnologo en **Análisis y Desarrollo de Software**, estudiante de **Ingenieria de sistemas** 
 💡 Apasionado por el desarrollo web, la inteligencia artificial y la automatización de procesos  
 💻 En formación continua como **desarrollador full stack**  
 
