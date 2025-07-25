@@ -34,7 +34,7 @@ Arquitectura:
 - Capas: `domain`, `application`, `infrastructure`, `web`
 - Validaciones, WebSockets, firma electrónica y buenas prácticas SOLID
 
-Tecnologías: `Spring Boot`, `Java 17`, `WebSocket`, `JPA/Hibernate`, `MySQL`, `MapStruct`, `Clean Architecture`
+Tecnologías: `Spring Boot`, `Java 17`, `WebSocket`, `JPA/Hibernate`, `MySQL`, `Docker`, `Clean Architecture`
 
 ---
 
