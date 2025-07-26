@@ -8,7 +8,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🔠 [LSC Software](https://github.com/rafael07-dev/lsc-software)
+### 🔠 [LSC Software](https://github.com/rafael07-dev/lsc-software-app)
 Aplicación para el aprendizaje del lenguaje de señas:
 - 📘 Diccionario interactivo con palabras y videos
 - 📷 Práctica con cámara usando [MediaPipe Hands](https://google.github.io/mediapipe/)
